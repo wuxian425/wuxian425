@@ -1,4 +1,4 @@
-### 你好！ 👋
+## 你好！ 👋
 欢迎来到我的GitHub仓库！
 |Acamp|Gitee|Scratch|Website|Facebook|Instagram|Twitter|MCBBS|
 |----|----|----|----|----|----|----|----|
@@ -8,3 +8,10 @@
 [![Bob0800's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wuxian425
 )](https://github.com/anuraghazra/github-readme-stats "一名不专业的程序猿" )   
 我还有另外一个帐号：[`Bob0800`](https://github.com/Bob0800)
+> 这只鸽子就是逊啦，连登Dua郎都不会（Bushi
+### 精通：Scratch
+### 擅长：HTML,Batch
+### 尚在学习：JavaScript,Visual Basic
+### 学一点点：Python,EPL
+-------------------------------------------------------------   
+Markdown 真香~~~

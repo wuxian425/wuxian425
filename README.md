@@ -1,6 +1,6 @@
 ## Hello! I'm MoeCat.
 
-##### Studing
+##### Studying
 ```
 Golang | JavaScript | SQL
 ```

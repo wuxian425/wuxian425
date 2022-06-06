@@ -2,5 +2,9 @@
 
 ##### Studying
 ```
-Golang | JavaScript | SQL
+Golang | JavaScript | SQL | Vue | CSS
 ```
+
+![](https://github-readme-stats.vercel.app/api?username=wuxian425&theme=vue)
+
+

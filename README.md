@@ -7,35 +7,43 @@
 </h4>
 
 <div align="center">
-  <a href="https://moeblog.gq">Blog :earth_asia:</a> / 
-  <a href="https://twitter.com/Bob0800">Twitter :bird:</a> / 
-  <a href="https://github.com/wuxian425">Github :octocat:</a> / 
-  <a href="mailto://yangbob123456@gmail.com">Email :email:</a> / 
-  <a href="https://github.com/wux-ui/wux-ui">WuX-UI </a>
+  <a href="https://moeblog.gq">:earth_asia:</a> · 
+  <a href="https://twitter.com/Bob0800">:bird:</a> · 
+  <a href="https://github.com/wuxian425">:octocat:</a> · 
+  <a href="mailto://yangbob123456@gmail.com">:email:</a>
 </div>
 
 <h2 align="left">
   Recommend Project :+1:
 </h2>
 <div align="left">
-  <div>
+  <blockquote>
     <h3>
       WuX-UI
     </h3> 
     <div>
-      <a href="https://wux-ui.tk/">Site :earth_asia:</a> / 
-      <a href="https://github.com/wux-ui">Github :octocat:</a> / 
-      <a href="https://twitter.com/WuX_UI">Twitter :bird:</a>
+      <a href="https://wux-ui.tk/">:earth_asia:</a> · 
+      <a href="https://github.com/wux-ui">:octocat:</a> · 
+      <a href="https://twitter.com/WuX_UI">:bird:</a>
     </div>
-  </div>
-  <div>
+  </blockquote>
+  <blockquote>
+    <h3>
+      WuX-Typecho-Theme
+    </h3> 
+    <div>
+      <a href="https://moeblog.gq/">:earth_asia:</a> · 
+      <a href="https://github.com/wux-ui/wux-typecho-theme">:octocat:</a>
+    </div>
+  </blockquote>
+  <blockquote>
     <h3>
       Lite-XL-SCSS
     </h3> 
     <div>
-      <a href="https://github.com/wuxian425/lite-xl-scss">Github :octocat:</a>
+      <a href="https://github.com/wuxian425/lite-xl-scss">:octocat:</a>
     </div>
-  </div>
+  </blockquote>
 </div>
 
 <h2 align="right">

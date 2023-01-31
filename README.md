@@ -46,13 +46,6 @@
   </tr>
   <tr>
     <td valign="top" width="25%">  
-      <a href="https://github.com/wuxian425/thoseyearssong">
-        <b><i>ThoseYearsSong</i></b>
-      </a>
-      <br>
-      Collect favorite songs of born in the 90s and 00s.
-    </td>
-    <td valign="top" width="25%">  
       <a href="https://github.com/wuxian425/Typography.less">
         <b><i>Typography.less</i></b>
       </a>

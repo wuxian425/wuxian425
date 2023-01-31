@@ -1,13 +1,13 @@
+<img src="https://user-images.githubusercontent.com/82699919/215661143-2c54874f-c791-47a9-9724-7cb2d93adc8d.svg" width="100%" height="auto" />
 <a href="#">
   <img src="https://avatars.githubusercontent.com/u/82699919?v=4" alt="BobYang" title="BobYang" align="right" width="175px" height="175px"/>
 </a>
 <h1>
   Hi there! I'm <a href="https://github.com/wuxian425"><i>BobYang</i></a>.
 </h1>
-<div align="right">
+<div align="left">
   A junior high school student from Taiwan, creator of <a href="https://github.com/wux-ui">@wux-ui</a>.<br>
-  You can use <a href="https://twitter.com/Bob0800">Twitter</a> or <a href="mailto://yangbob123456@gmail.com">Email</a> to contact me.<br>   
-  My posts is on <a href="https://wuxian425.github.io/">My Website</a>.
+  <a href="https://twitter.com/Bob0800">Twitter</a> · <a href="mailto://yangbob123456@gmail.com">Email</a> · <a href="https://wuxian425.github.io/">Website</a>  
 </div>
 
 <h2>

@@ -1,18 +1,19 @@
-<img src="https://user-images.githubusercontent.com/82699919/215661143-2c54874f-c791-47a9-9724-7cb2d93adc8d.svg" width="100%" height="auto" />
-<a href="#">
-  <img src="https://avatars.githubusercontent.com/u/82699919?v=4" alt="BobYang" title="BobYang" align="right" width="175px" height="175px"/>
-</a>
 <h1>
-  Hi there! I'm <a href="https://github.com/wuxian425"><i>BobYang</i></a>.
+  <img src="https://user-images.githubusercontent.com/82699919/215661143-2c54874f-c791-47a9-9724-7cb2d93adc8d.svg" alt="BobYang" title="BobYang" width="100%" height="auto"/>
 </h1>
-<div align="left">
-  A junior high school student from Taiwan, creator of <a href="https://github.com/wux-ui">@wux-ui</a>.<br>
-  <a href="https://twitter.com/Bob0800">Twitter</a> · <a href="mailto://yangbob123456@gmail.com">Email</a> · <a href="https://wuxian425.github.io/">Website</a>  
+
+<div align="center">
+  <img src="https://shields.io/badge/HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=white" alt="HTML5" />
+  <img src="https://shields.io/badge/CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=white" alt="CSS3" />
+  <img src="https://shields.io/badge/Less-294E82?logo=less&style=for-the-badge&logoColor=white" alt="Less" />
+  <img src="https://shields.io/badge/SASS-CD6799?logo=sass&style=for-the-badge&logoColor=white" alt="SASS" />
+  <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=grey" alt="JavaScript" />
+  <img src="https://shields.io/badge/Scratch-F9A83A?logo=scratch&style=for-the-badge&logoColor=white" alt="Scratch" />
 </div>
 
-<h2>
-  Recommend Projects
-</h2>
+<h3 align="center">
+  Projects
+</h3>
 <table>
   <tr>
     <td valign="top" width="25%">  
@@ -61,6 +62,27 @@
     </td>
   </tr>
 </table>
+</div>
+
+<h3 align="center">
+  Find me
+</h3>
+<h5 align="center">
+  <a href="https://instagram.com/wow.bob0800">
+    Instagram
+  </a> · 
+  <a href="https://twitter.com/Bob0800">
+    Twitter
+  </a> ·  
+  <a href="mailto://yangbob123456@gmail.com">
+    Email
+  </a> · 
+  <a href="https://wuxian425.github.io/">
+    Website
+  </a> 
+</div>
+
+<h2></h2>
 
 <h6 align="center">
   This README.md designed by <a href="https://github.com/wuxian425"><i>BobYang@wuxian425</i></a>.
